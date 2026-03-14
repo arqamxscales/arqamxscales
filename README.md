@@ -5,6 +5,33 @@
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/arqamdotio)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arrqam.g)
 
+### 🛡️ Verified Ecosystem & Affiliations
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Government_of_Pakistan-National_Identity-00401A?style=for-the-badge&logo=pakistan&logoColor=white" />
+  <img src="https://img.shields.io/badge/UNDP-Technical_Researcher-006EB5?style=for-the-badge&logo=unitednations&logoColor=white" />
+  <img src="https://img.shields.io/badge/Quantum_Park-Founder-00B4D8?style=for-the-badge&logo=quantum&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/FAST--NUCES-Fintech_Alumnus-003366?style=for-the-badge&logo=education&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_MLSA-Cloud_Ambassador-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_GDSC-Technical_Lead-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Upwork-Top--Rated_Freelancer-60D148?style=for-the-badge&logo=upwork&logoColor=white" />
+  <img src="https://img.shields.io/badge/PIAIC-AI_Specialist-000000?style=for-the-badge&logo=artificialintelligence&logoColor=white" />
+</p>
+
+---
+
+### 💻 Technical Arsenal
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ---
 
 ### 🧬 Professional Persona
